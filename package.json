@@ -1,0 +1,12 @@
+{
+  "name": "project_page",
+  "version": "1.0.0",
+  "description": "Comendo cu de curioso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Info - no tests\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vitor Hugo",
+  "license": "ISC"
+}
